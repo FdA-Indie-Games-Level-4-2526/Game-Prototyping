@@ -7,9 +7,18 @@ public class FadingScript : MonoBehaviour
 
     [SerializeField] private float fadeDuration = 5.0f;
 
+    [SerializeField] private bool fadeIn = false;
+
     private void Start()
     {
-        canvasGroup = GetComponent<CanvasGroup>();
+        if (fadeIn)
+        {
+            FadeIn();
+        }
+        else
+        {
+            FadeOut();
+        }
     }
 
     public void FadeIn()

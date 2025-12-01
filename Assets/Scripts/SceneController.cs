@@ -4,7 +4,8 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     public static SceneController Instance;
-   // [SerializeField] Animator transitionAnim; 
+    [SerializeField] Animator transitionAnim;
+    [SerializeField] FadingScript fadingScript;
 
     private void Awake()
     {
@@ -26,8 +27,11 @@ public class SceneController : MonoBehaviour
 
     IEnumerator LoadLevel()
     {
-        // transitionAnim.SetTrigger("End");
+        //  transitionAnim.SetTrigger("End");
+        fadingScript.FadeOut();
         yield return new WaitForSeconds(0.5f);
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene(). buildIndex + 1);
+        fadingScript.FadeIn();
+        Debug.Log("Loading");
     }
 }

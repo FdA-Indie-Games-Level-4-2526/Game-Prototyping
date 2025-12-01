@@ -56,7 +56,6 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
         {
             body.AddForce(new Vector2(0, jumpforce), ForceMode2D.Impulse);
-            Debug.Log("Jumping");
         }
 
         // - Flip player when moveing Left-Right
