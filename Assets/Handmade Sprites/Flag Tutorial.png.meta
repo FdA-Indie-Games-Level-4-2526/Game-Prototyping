@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 6b2cffd4cfb5dca4f92d151b8bd1208a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -333971670483276751
+    second: Flag Tutorial_0
+  - first:
+      213: -880931001070733041
+    second: Flag Tutorial_1
+  - first:
+      213: 9194060011104747566
+    second: Flag Tutorial_2
+  - first:
+      213: 8092217400648765468
+    second: Flag Tutorial_3
+  - first:
+      213: -4196940576208599867
+    second: Flag Tutorial_4
+  - first:
+      213: 1923565255784178959
+    second: Flag Tutorial_5
+  - first:
+      213: -3630658321235805704
+    second: Flag Tutorial_6
+  - first:
+      213: -833561846035373185
+    second: Flag Tutorial_7
+  - first:
+      213: 1763031865119884693
+    second: Flag Tutorial_8
+  - first:
+      213: -5493180693544418532
+    second: Flag Tutorial_9
+  - first:
+      213: 3045396421759943657
+    second: Flag Tutorial_10
+  - first:
+      213: -6784396590891292987
+    second: Flag Tutorial_11
+  - first:
+      213: -5502357760765835401
+    second: Flag Tutorial_12
+  - first:
+      213: 2336857991040067785
+    second: Flag Tutorial_13
+  - first:
+      213: 7332805879199552764
+    second: Flag Tutorial_14
+  - first:
+      213: 176696568148267989
+    second: Flag Tutorial_15
+  - first:
+      213: -8117302105759034941
+    second: Flag Tutorial_16
+  - first:
+      213: 2151300068981317677
+    second: Flag Tutorial_17
+  - first:
+      213: -803225808298432940
+    second: Flag Tutorial_18
+  - first:
+      213: 7281648466395865516
+    second: Flag Tutorial_19
+  - first:
+      213: -8097030483902848114
+    second: Flag Tutorial_20
+  - first:
+      213: -6405696010917624677
+    second: Flag Tutorial_21
+  - first:
+      213: 5712395565344499973
+    second: Flag Tutorial_22
+  - first:
+      213: -8176876706545209050
+    second: Flag Tutorial_23
+  - first:
+      213: -3240504584703171315
+    second: Flag Tutorial_24
+  - first:
+      213: -4405033461443568264
+    second: Flag Tutorial_25
+  - first:
+      213: 2733254633305573414
+    second: Flag Tutorial_26
+  - first:
+      213: 4122715756957392412
+    second: Flag Tutorial_27
+  - first:
+      213: -4465386227899542753
+    second: Flag Tutorial_28
+  - first:
+      213: 7830391528202643228
+    second: Flag Tutorial_29
+  - first:
+      213: -821705083492583877
+    second: Flag Tutorial_30
+  - first:
+      213: -4874847196471628079
+    second: Flag Tutorial_31
+  - first:
+      213: -3156899245976058270
+    second: Flag Tutorial_32
+  - first:
+      213: 6740907111708640283
+    second: Flag Tutorial_33
+  - first:
+      213: 5813989808996153878
+    second: Flag Tutorial_34
+  - first:
+      213: 4999395579929679049
+    second: Flag Tutorial_35
+  - first:
+      213: -1138693103174540130
+    second: Flag Tutorial_36
+  - first:
+      213: 584896336708903251
+    second: Flag Tutorial_37
+  - first:
+      213: -4733121321319968360
+    second: Flag Tutorial_38
+  - first:
+      213: 3796742952695933743
+    second: Flag Tutorial_39
+  - first:
+      213: -6750447379344767901
+    second: Flag Tutorial_40
+  - first:
+      213: -28170398414690856
+    second: Flag Tutorial_41
+  - first:
+      213: 764162081564886481
+    second: Flag Tutorial_42
+  - first:
+      213: -9089946981023708311
+    second: Flag Tutorial_43
+  - first:
+      213: 757171171889831440
+    second: Flag Tutorial_44
+  - first:
+      213: 6395364430826601392
+    second: Flag Tutorial_45
+  - first:
+      213: 7871736906148478147
+    second: Flag Tutorial_46
+  - first:
+      213: -3073828454397343593
+    second: Flag Tutorial_47
+  - first:
+      213: -6179480434173503160
+    second: Flag Tutorial_48
+  - first:
+      213: 3504537931222181066
+    second: Flag Tutorial_49
+  - first:
+      213: 4082030866179204043
+    second: Flag Tutorial_50
+  - first:
+      213: 4816009759031471062
+    second: Flag Tutorial_51
+  - first:
+      213: -1706582589451991186
+    second: Flag Tutorial_52
+  - first:
+      213: 4578460179983533970
+    second: Flag Tutorial_53
+  - first:
+      213: 2467786860730099651
+    second: Flag Tutorial_54
+  - first:
+      213: -8864016863140675376
+    second: Flag Tutorial_55
+  - first:
+      213: 6896039654896779606
+    second: Flag Tutorial_56
+  - first:
+      213: -4895991316146373285
+    second: Flag Tutorial_57
+  - first:
+      213: 9180334720863782633
+    second: Flag Tutorial_58
+  - first:
+      213: 8402227750426525841
+    second: Flag Tutorial_59
+  - first:
+      213: 3276298756130085236
+    second: Flag Tutorial_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flag Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 598
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ceccff88e7d5bf0800000000000000
+      internalID: -333971670483276751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 598
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09bc810ced46c3f0800000000000000
+      internalID: -880931001070733041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 598
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c58d2edcd79f70800000000000000
+      internalID: 9194060011104747566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 598
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1097eaf9d45d4070800000000000000
+      internalID: 8092217400648765468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 598
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4c9a348c871c5c0800000000000000
+      internalID: -4196940576208599867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 597
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ac4d9860e1ba10800000000000000
+      internalID: 1923565255784178959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 581
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97ced2e7f4d9dc0800000000000000
+      internalID: -3630658321235805704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 598
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f732ebcdae79e64f0800000000000000
+      internalID: -833561846035373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 597
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5954a20f32c877810800000000000000
+      internalID: 1763031865119884693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 598
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13404a634d44c3b0800000000000000
+      internalID: -5493180693544418532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 597
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34f3f09eb634a20800000000000000
+      internalID: 3045396421759943657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 507
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ad80fe3bf8d1a0800000000000000
+      internalID: -6784396590891292987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 508
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7774072f4c2b3a3b0800000000000000
+      internalID: -5502357760765835401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 508
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e97e26ff2e6020800000000000000
+      internalID: 2336857991040067785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 508
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4d594a81c53c560800000000000000
+      internalID: 7332805879199552764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 508
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31281b790c37200800000000000000
+      internalID: 176696568148267989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 508
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d3bbfdbc895f80800000000000000
+      internalID: -8117302105759034941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 527
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a7e0c304fadd10800000000000000
+      internalID: 2151300068981317677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 507
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45622fd026e5ad4f0800000000000000
+      internalID: -803225808298432940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 328
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12bca43bc9d0560800000000000000
+      internalID: 7281648466395865516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 328
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83267fbca191af80800000000000000
+      internalID: -8097030483902848114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944e1aba656a17a0800000000000000
+      internalID: -6405696010917624677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 327
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50920e84081864f40800000000000000
+      internalID: 5712395565344499973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 327
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f43655f5e58e80800000000000000
+      internalID: -8176876706545209050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 328
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052eb7cf3a6703d0800000000000000
+      internalID: -3240504584703171315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 327
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d52fad76d2ed2c0800000000000000
+      internalID: -4405033461443568264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288eda8b987ee520800000000000000
+      internalID: 2733254633305573414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 327
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed95b4324d63930800000000000000
+      internalID: 4122715756957392412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13502562e2c702c0800000000000000
+      internalID: -4465386227899542753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 328
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172fb29b932bac60800000000000000
+      internalID: 7830391528202643228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 328
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36ba448497b894f0800000000000000
+      internalID: -821705083492583877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_31
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 328
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deeff78d40195cb0800000000000000
+      internalID: -4874847196471628079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_32
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 327
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26606eb9cd07034d0800000000000000
+      internalID: -3156899245976058270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 237
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b144c41ad438c8d50800000000000000
+      internalID: 6740907111708640283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af4fc6de07fa050800000000000000
+      internalID: 5813989808996153878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 238
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4dd51cacb616540800000000000000
+      internalID: 4999395579929679049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 238
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94281dd7ac8230f0800000000000000
+      internalID: -1138693103174540130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 238
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35126fb8e18fd1800800000000000000
+      internalID: 584896336708903251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 236
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89155e34c33905eb0800000000000000
+      internalID: -4733121321319968360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 238
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ba8e6799db0b430800000000000000
+      internalID: 3796742952695933743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 238
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3644037bfd79152a0800000000000000
+      internalID: -6750447379344767901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 237
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5af410c2beb9ff0800000000000000
+      internalID: -28170398414690856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 238
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58f7e4d59da9a00800000000000000
+      internalID: 764162081564886481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 238
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b82f0a1650ad180800000000000000
+      internalID: -9089946981023708311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 148
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed8ae4b23028a00800000000000000
+      internalID: 757171171889831440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 148
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb7694d016e0c850800000000000000
+      internalID: 6395364430826601392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 146
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccff4882070e3d60800000000000000
+      internalID: 7871736906148478147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 148
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798882b7e419755d0800000000000000
+      internalID: -3073828454397343593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 148
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499c9019431e3aa0800000000000000
+      internalID: -6179480434173503160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 148
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4616c3eae92a030800000000000000
+      internalID: 3504537931222181066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_50
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3aaccf17946a830800000000000000
+      internalID: 4082030866179204043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 148
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba2e90c57e5d240800000000000000
+      internalID: 4816009759031471062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 147
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6709df3d200158e0800000000000000
+      internalID: -1706582589451991186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_53
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 148
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2978036a645f98f30800000000000000
+      internalID: 4578460179983533970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_54
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 148
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a13f23175f3220800000000000000
+      internalID: 2467786860730099651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 58
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d08d6560afacf480800000000000000
+      internalID: -8864016863140675376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 58
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65141238787a3bf50800000000000000
+      internalID: 6896039654896779606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 58
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5db2b986d1fd0cb0800000000000000
+      internalID: -4895991316146373285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 57
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e645440ac9176f70800000000000000
+      internalID: 9180334720863782633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 77
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1904a124f95ba9470800000000000000
+      internalID: 8402227750426525841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag Tutorial_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 57
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47910313c50c77d20800000000000000
+      internalID: 3276298756130085236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flag Tutorial_0: -333971670483276751
+      Flag Tutorial_1: -880931001070733041
+      Flag Tutorial_10: 3045396421759943657
+      Flag Tutorial_11: -6784396590891292987
+      Flag Tutorial_12: -5502357760765835401
+      Flag Tutorial_13: 2336857991040067785
+      Flag Tutorial_14: 7332805879199552764
+      Flag Tutorial_15: 176696568148267989
+      Flag Tutorial_16: -8117302105759034941
+      Flag Tutorial_17: 2151300068981317677
+      Flag Tutorial_18: -803225808298432940
+      Flag Tutorial_19: 7281648466395865516
+      Flag Tutorial_2: 9194060011104747566
+      Flag Tutorial_20: -8097030483902848114
+      Flag Tutorial_21: -6405696010917624677
+      Flag Tutorial_22: 5712395565344499973
+      Flag Tutorial_23: -8176876706545209050
+      Flag Tutorial_24: -3240504584703171315
+      Flag Tutorial_25: -4405033461443568264
+      Flag Tutorial_26: 2733254633305573414
+      Flag Tutorial_27: 4122715756957392412
+      Flag Tutorial_28: -4465386227899542753
+      Flag Tutorial_29: 7830391528202643228
+      Flag Tutorial_3: 8092217400648765468
+      Flag Tutorial_30: -821705083492583877
+      Flag Tutorial_31: -4874847196471628079
+      Flag Tutorial_32: -3156899245976058270
+      Flag Tutorial_33: 6740907111708640283
+      Flag Tutorial_34: 5813989808996153878
+      Flag Tutorial_35: 4999395579929679049
+      Flag Tutorial_36: -1138693103174540130
+      Flag Tutorial_37: 584896336708903251
+      Flag Tutorial_38: -4733121321319968360
+      Flag Tutorial_39: 3796742952695933743
+      Flag Tutorial_4: -4196940576208599867
+      Flag Tutorial_40: -6750447379344767901
+      Flag Tutorial_41: -28170398414690856
+      Flag Tutorial_42: 764162081564886481
+      Flag Tutorial_43: -9089946981023708311
+      Flag Tutorial_44: 757171171889831440
+      Flag Tutorial_45: 6395364430826601392
+      Flag Tutorial_46: 7871736906148478147
+      Flag Tutorial_47: -3073828454397343593
+      Flag Tutorial_48: -6179480434173503160
+      Flag Tutorial_49: 3504537931222181066
+      Flag Tutorial_5: 1923565255784178959
+      Flag Tutorial_50: 4082030866179204043
+      Flag Tutorial_51: 4816009759031471062
+      Flag Tutorial_52: -1706582589451991186
+      Flag Tutorial_53: 4578460179983533970
+      Flag Tutorial_54: 2467786860730099651
+      Flag Tutorial_55: -8864016863140675376
+      Flag Tutorial_56: 6896039654896779606
+      Flag Tutorial_57: -4895991316146373285
+      Flag Tutorial_58: 9180334720863782633
+      Flag Tutorial_59: 8402227750426525841
+      Flag Tutorial_6: -3630658321235805704
+      Flag Tutorial_60: 3276298756130085236
+      Flag Tutorial_7: -833561846035373185
+      Flag Tutorial_8: 1763031865119884693
+      Flag Tutorial_9: -5493180693544418532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

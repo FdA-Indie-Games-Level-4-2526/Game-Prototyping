@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 36b5c620cf372084994c67e7f7402087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3825148902402654388
+    second: Hazard Tutorial_0
+  - first:
+      213: -1859916991880417857
+    second: Hazard Tutorial_1
+  - first:
+      213: -7300539186624419354
+    second: Hazard Tutorial_2
+  - first:
+      213: -8442008352150137187
+    second: Hazard Tutorial_3
+  - first:
+      213: 3992118063337706744
+    second: Hazard Tutorial_4
+  - first:
+      213: -8071653564632598893
+    second: Hazard Tutorial_5
+  - first:
+      213: 6625504206776715381
+    second: Hazard Tutorial_6
+  - first:
+      213: 6079433336765289676
+    second: Hazard Tutorial_7
+  - first:
+      213: -5328813861055651699
+    second: Hazard Tutorial_8
+  - first:
+      213: -293147614509278330
+    second: Hazard Tutorial_9
+  - first:
+      213: -8020776215039747284
+    second: Hazard Tutorial_10
+  - first:
+      213: 3957619247156033533
+    second: Hazard Tutorial_11
+  - first:
+      213: -7919672214915350724
+    second: Hazard Tutorial_12
+  - first:
+      213: -993542889436636568
+    second: Hazard Tutorial_13
+  - first:
+      213: 184127317092091077
+    second: Hazard Tutorial_14
+  - first:
+      213: 2659675898374564258
+    second: Hazard Tutorial_15
+  - first:
+      213: -6737938561694173058
+    second: Hazard Tutorial_16
+  - first:
+      213: 5992164519573565248
+    second: Hazard Tutorial_17
+  - first:
+      213: -9150876089815867240
+    second: Hazard Tutorial_18
+  - first:
+      213: 3449755712233767465
+    second: Hazard Tutorial_19
+  - first:
+      213: 4401353397847904110
+    second: Hazard Tutorial_20
+  - first:
+      213: -6503032644322018828
+    second: Hazard Tutorial_21
+  - first:
+      213: 6644234558731922701
+    second: Hazard Tutorial_22
+  - first:
+      213: 2919336243082649178
+    second: Hazard Tutorial_23
+  - first:
+      213: 7128130310197820226
+    second: Hazard Tutorial_24
+  - first:
+      213: 4792389585217565760
+    second: Hazard Tutorial_25
+  - first:
+      213: 5585611784080766439
+    second: Hazard Tutorial_26
+  - first:
+      213: 2088325002713956995
+    second: Hazard Tutorial_27
+  - first:
+      213: -8568934263421486669
+    second: Hazard Tutorial_28
+  - first:
+      213: 7584538512480728100
+    second: Hazard Tutorial_29
+  - first:
+      213: -929584992961433394
+    second: Hazard Tutorial_30
+  - first:
+      213: -3518480740941015342
+    second: Hazard Tutorial_31
+  - first:
+      213: 6180671439671591888
+    second: Hazard Tutorial_32
+  - first:
+      213: -361794454630193539
+    second: Hazard Tutorial_33
+  - first:
+      213: -5798287392173824826
+    second: Hazard Tutorial_34
+  - first:
+      213: -5060572787938621529
+    second: Hazard Tutorial_35
+  - first:
+      213: -128676532903839452
+    second: Hazard Tutorial_36
+  - first:
+      213: -1953120317173867240
+    second: Hazard Tutorial_37
+  - first:
+      213: 2403720784176551374
+    second: Hazard Tutorial_38
+  - first:
+      213: 1404088709315457211
+    second: Hazard Tutorial_39
+  - first:
+      213: 2344501280494247061
+    second: Hazard Tutorial_40
+  - first:
+      213: -6291773341749926239
+    second: Hazard Tutorial_41
+  - first:
+      213: -901726020826795171
+    second: Hazard Tutorial_42
+  - first:
+      213: 4261820622386977685
+    second: Hazard Tutorial_43
+  - first:
+      213: 3630120858944604265
+    second: Hazard Tutorial_44
+  - first:
+      213: 2523385059247188350
+    second: Hazard Tutorial_45
+  - first:
+      213: -1589099074362996232
+    second: Hazard Tutorial_46
+  - first:
+      213: 7472914566216268234
+    second: Hazard Tutorial_47
+  - first:
+      213: 96080073969705718
+    second: Hazard Tutorial_48
+  - first:
+      213: -3719950241477928197
+    second: Hazard Tutorial_49
+  - first:
+      213: -6503961345369434918
+    second: Hazard Tutorial_50
+  - first:
+      213: 7002966001619453983
+    second: Hazard Tutorial_51
+  - first:
+      213: -2981068658881617254
+    second: Hazard Tutorial_52
+  - first:
+      213: 2845824320315602589
+    second: Hazard Tutorial_53
+  - first:
+      213: -3555477983413022982
+    second: Hazard Tutorial_54
+  - first:
+      213: 1154090928734022435
+    second: Hazard Tutorial_55
+  - first:
+      213: -7927238191079775548
+    second: Hazard Tutorial_56
+  - first:
+      213: -2808366969416889086
+    second: Hazard Tutorial_57
+  - first:
+      213: 7367527519687030924
+    second: Hazard Tutorial_58
+  - first:
+      213: -14882587605649669
+    second: Hazard Tutorial_59
+  - first:
+      213: 4611361177175436792
+    second: Hazard Tutorial_60
+  - first:
+      213: 8582837814197585546
+    second: Hazard Tutorial_61
+  - first:
+      213: 1104114490879635012
+    second: Hazard Tutorial_62
+  - first:
+      213: -7504392726714731030
+    second: Hazard Tutorial_63
+  - first:
+      213: 317043752284501967
+    second: Hazard Tutorial_64
+  - first:
+      213: -8284385936489622882
+    second: Hazard Tutorial_65
+  - first:
+      213: 5050790649569298555
+    second: Hazard Tutorial_66
+  - first:
+      213: -3800326441151719757
+    second: Hazard Tutorial_67
+  - first:
+      213: -2066259003328050964
+    second: Hazard Tutorial_68
+  - first:
+      213: 8743122072745844987
+    second: Hazard Tutorial_69
+  - first:
+      213: -1912296748278356455
+    second: Hazard Tutorial_70
+  - first:
+      213: 550120611726788026
+    second: Hazard Tutorial_71
+  - first:
+      213: -6167555516673896827
+    second: Hazard Tutorial_72
+  - first:
+      213: 4644613218685943978
+    second: Hazard Tutorial_73
+  - first:
+      213: 7839557856906202391
+    second: Hazard Tutorial_74
+  - first:
+      213: 5057393257997047940
+    second: Hazard Tutorial_75
+  - first:
+      213: 7399839646316717129
+    second: Hazard Tutorial_76
+  - first:
+      213: 2265176146320976035
+    second: Hazard Tutorial_77
+  - first:
+      213: -3230868688353760826
+    second: Hazard Tutorial_78
+  - first:
+      213: 6496877058219259887
+    second: Hazard Tutorial_79
+  - first:
+      213: 3455554861328056718
+    second: Hazard Tutorial_80
+  - first:
+      213: -5882404903729420612
+    second: Hazard Tutorial_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazard Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 449
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f705bf6575aeac0800000000000000
+      internalID: -3825148902402654388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 441
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2143a95f3036e0800000000000000
+      internalID: -1859916991880417857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 476
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ae682a464faa90800000000000000
+      internalID: -7300539186624419354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 450
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d533a126f7da80800000000000000
+      internalID: -8442008352150137187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f41aaa3a3ad66730800000000000000
+      internalID: 3992118063337706744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396fe0239d9bbff80800000000000000
+      internalID: -8071653564632598893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 449
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57848cef8f482fb50800000000000000
+      internalID: 6625504206776715381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 449
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41099d86c7e5450800000000000000
+      internalID: 6079433336765289676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 450
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a991d6004c06b0800000000000000
+      internalID: -5328813861055651699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 450
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bdb6a3cc78eebf0800000000000000
+      internalID: -293147614509278330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 449
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b57af378a70b090800000000000000
+      internalID: -8020776215039747284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 449
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7fbf6acb94ce630800000000000000
+      internalID: 3957619247156033533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 449
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f707ca41ca71290800000000000000
+      internalID: -7919672214915350724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a930e810a3632f0800000000000000
+      internalID: -993542889436636568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c448b0c1d62e8200800000000000000
+      internalID: 184127317092091077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 449
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a844532119e420800000000000000
+      internalID: 2659675898374564258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ffc7c3980e72a0800000000000000
+      internalID: -6737938561694173058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 450
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa1e8f1e1782350800000000000000
+      internalID: 5992164519573565248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 449
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890e8e20eae810180800000000000000
+      internalID: -9150876089815867240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 449
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922819dea8effdf20800000000000000
+      internalID: 3449755712233767465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 476
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fcea1989fb41d30800000000000000
+      internalID: 4401353397847904110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 450
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9ba68b34690c5a0800000000000000
+      internalID: -6503032644322018828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d2795e020153c50800000000000000
+      internalID: 6644234558731922701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5dd488d0938820800000000000000
+      internalID: 2919336243082649178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_24
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 441
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b390c20c43ce260800000000000000
+      internalID: 7128130310197820226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 449
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044bc24cfecf18240800000000000000
+      internalID: 4792389585217565760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 449
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5be53e254148d40800000000000000
+      internalID: 5585611784080766439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 378
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382055a86883bfc10800000000000000
+      internalID: 2088325002713956995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9b61500b7051980800000000000000
+      internalID: -8568934263421486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 389
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424feada791b14960800000000000000
+      internalID: 7584538512480728100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 390
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0fff1cf537913f0800000000000000
+      internalID: -929584992961433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 389
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d658276868db2fc0800000000000000
+      internalID: -3518480740941015342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d307038de726c550800000000000000
+      internalID: 6180671439671591888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 390
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76af024cd5aafaf0800000000000000
+      internalID: -361794454630193539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 389
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46ad36658588fa0800000000000000
+      internalID: -5798287392173824826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a709e68cdb35c9b0800000000000000
+      internalID: -5060572787938621529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 389
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42976550069d63ef0800000000000000
+      internalID: -128676532903839452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 390
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd04b6b6f15e4e0800000000000000
+      internalID: -1953120317173867240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51118515bbb5120800000000000000
+      internalID: 2403720784176551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 389
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb072efed335c7310800000000000000
+      internalID: 1404088709315457211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 389
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cde4f2e77598020800000000000000
+      internalID: 2344501280494247061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 389
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a629bd1b712fa8a0800000000000000
+      internalID: -6291773341749926239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 390
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5374eb26fc6c73f0800000000000000
+      internalID: -901726020826795171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 389
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5fc5a647052b30800000000000000
+      internalID: 4261820622386977685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_44
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968012120b7c06230800000000000000
+      internalID: 3630120858944604265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 390
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e4f7875dd40320800000000000000
+      internalID: 2523385059247188350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 389
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f901bfafc262f9e0800000000000000
+      internalID: -1589099074362996232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_47
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 390
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b92c643025b760800000000000000
+      internalID: 7472914566216268234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_48
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f225f67158555100800000000000000
+      internalID: 96080073969705718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_49
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 390
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa549ae6f4106cc0800000000000000
+      internalID: -3719950241477928197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad41268ad994db5a0800000000000000
+      internalID: -6503961345369434918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_51
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 389
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f184aa4a9788f2160800000000000000
+      internalID: 7002966001619453983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_52
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 390
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92af4069dd11a6d0800000000000000
+      internalID: -2981068658881617254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 390
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96349934266e7720800000000000000
+      internalID: 2845824320315602589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_54
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 390
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afec1ff9c9768aec0800000000000000
+      internalID: -3555477983413022982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 270
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b21b5c597240010800000000000000
+      internalID: 1154090928734022435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 270
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2a7c29ddaccf190800000000000000
+      internalID: -7927238191079775548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d47f4ee1da609d0800000000000000
+      internalID: -2808366969416889086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883cdb8e37be3660800000000000000
+      internalID: 7367527519687030924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf63d6c8d502bcff0800000000000000
+      internalID: -14882587605649669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 269
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda1900f88deff30800000000000000
+      internalID: 4611361177175436792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 270
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868908a48d5c1770800000000000000
+      internalID: 8582837814197585546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_62
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 270
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eed34974a925f00800000000000000
+      internalID: 1104114490879635012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 269
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b425339a0bd790800000000000000
+      internalID: -7504392726714731030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 270
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7bc29ec9d566400800000000000000
+      internalID: 317043752284501967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e925b4122e2f70d80800000000000000
+      internalID: -8284385936489622882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784176e553081640800000000000000
+      internalID: 5050790649569298555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 269
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b690ac9c37824bc0800000000000000
+      internalID: -3800326441151719757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 269
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8cdac426c2353e0800000000000000
+      internalID: -2066259003328050964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 269
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a4edb33fc55970800000000000000
+      internalID: 8743122072745844987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_70
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ebbd3d382675e0800000000000000
+      internalID: -1912296748278356455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 269
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5889d18cb62a700800000000000000
+      internalID: 550120611726788026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_72
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 269
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ec6284fe0786aa0800000000000000
+      internalID: -6167555516673896827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00cda3d1bf47040800000000000000
+      internalID: 4644613218685943978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_74
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 296
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4409c554bbcc60800000000000000
+      internalID: 7839557856906202391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_75
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 270
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889e587f587f2640800000000000000
+      internalID: 5057393257997047940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_76
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 270
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9446f89c3f281b660800000000000000
+      internalID: 7399839646316717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_77
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 269
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8662324b58f6f10800000000000000
+      internalID: 2265176146320976035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 270
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9edbabb06a923d0800000000000000
+      internalID: -3230868688353760826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_79
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe73b84334b892a50800000000000000
+      internalID: 6496877058219259887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_80
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 270
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81455b86d894ff20800000000000000
+      internalID: 3455554861328056718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard Tutorial_81
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 270
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6213808ef7d5ea0800000000000000
+      internalID: -5882404903729420612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hazard Tutorial_0: -3825148902402654388
+      Hazard Tutorial_1: -1859916991880417857
+      Hazard Tutorial_10: -8020776215039747284
+      Hazard Tutorial_11: 3957619247156033533
+      Hazard Tutorial_12: -7919672214915350724
+      Hazard Tutorial_13: -993542889436636568
+      Hazard Tutorial_14: 184127317092091077
+      Hazard Tutorial_15: 2659675898374564258
+      Hazard Tutorial_16: -6737938561694173058
+      Hazard Tutorial_17: 5992164519573565248
+      Hazard Tutorial_18: -9150876089815867240
+      Hazard Tutorial_19: 3449755712233767465
+      Hazard Tutorial_2: -7300539186624419354
+      Hazard Tutorial_20: 4401353397847904110
+      Hazard Tutorial_21: -6503032644322018828
+      Hazard Tutorial_22: 6644234558731922701
+      Hazard Tutorial_23: 2919336243082649178
+      Hazard Tutorial_24: 7128130310197820226
+      Hazard Tutorial_25: 4792389585217565760
+      Hazard Tutorial_26: 5585611784080766439
+      Hazard Tutorial_27: 2088325002713956995
+      Hazard Tutorial_28: -8568934263421486669
+      Hazard Tutorial_29: 7584538512480728100
+      Hazard Tutorial_3: -8442008352150137187
+      Hazard Tutorial_30: -929584992961433394
+      Hazard Tutorial_31: -3518480740941015342
+      Hazard Tutorial_32: 6180671439671591888
+      Hazard Tutorial_33: -361794454630193539
+      Hazard Tutorial_34: -5798287392173824826
+      Hazard Tutorial_35: -5060572787938621529
+      Hazard Tutorial_36: -128676532903839452
+      Hazard Tutorial_37: -1953120317173867240
+      Hazard Tutorial_38: 2403720784176551374
+      Hazard Tutorial_39: 1404088709315457211
+      Hazard Tutorial_4: 3992118063337706744
+      Hazard Tutorial_40: 2344501280494247061
+      Hazard Tutorial_41: -6291773341749926239
+      Hazard Tutorial_42: -901726020826795171
+      Hazard Tutorial_43: 4261820622386977685
+      Hazard Tutorial_44: 3630120858944604265
+      Hazard Tutorial_45: 2523385059247188350
+      Hazard Tutorial_46: -1589099074362996232
+      Hazard Tutorial_47: 7472914566216268234
+      Hazard Tutorial_48: 96080073969705718
+      Hazard Tutorial_49: -3719950241477928197
+      Hazard Tutorial_5: -8071653564632598893
+      Hazard Tutorial_50: -6503961345369434918
+      Hazard Tutorial_51: 7002966001619453983
+      Hazard Tutorial_52: -2981068658881617254
+      Hazard Tutorial_53: 2845824320315602589
+      Hazard Tutorial_54: -3555477983413022982
+      Hazard Tutorial_55: 1154090928734022435
+      Hazard Tutorial_56: -7927238191079775548
+      Hazard Tutorial_57: -2808366969416889086
+      Hazard Tutorial_58: 7367527519687030924
+      Hazard Tutorial_59: -14882587605649669
+      Hazard Tutorial_6: 6625504206776715381
+      Hazard Tutorial_60: 4611361177175436792
+      Hazard Tutorial_61: 8582837814197585546
+      Hazard Tutorial_62: 1104114490879635012
+      Hazard Tutorial_63: -7504392726714731030
+      Hazard Tutorial_64: 317043752284501967
+      Hazard Tutorial_65: -8284385936489622882
+      Hazard Tutorial_66: 5050790649569298555
+      Hazard Tutorial_67: -3800326441151719757
+      Hazard Tutorial_68: -2066259003328050964
+      Hazard Tutorial_69: 8743122072745844987
+      Hazard Tutorial_7: 6079433336765289676
+      Hazard Tutorial_70: -1912296748278356455
+      Hazard Tutorial_71: 550120611726788026
+      Hazard Tutorial_72: -6167555516673896827
+      Hazard Tutorial_73: 4644613218685943978
+      Hazard Tutorial_74: 7839557856906202391
+      Hazard Tutorial_75: 5057393257997047940
+      Hazard Tutorial_76: 7399839646316717129
+      Hazard Tutorial_77: 2265176146320976035
+      Hazard Tutorial_78: -3230868688353760826
+      Hazard Tutorial_79: 6496877058219259887
+      Hazard Tutorial_8: -5328813861055651699
+      Hazard Tutorial_80: 3455554861328056718
+      Hazard Tutorial_81: -5882404903729420612
+      Hazard Tutorial_9: -293147614509278330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

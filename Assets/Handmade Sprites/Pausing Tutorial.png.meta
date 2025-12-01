@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: b7f4d623558cfec4e9bed914e529077d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6363157060323885050
+    second: Pausing Tutorial_0
+  - first:
+      213: 7704774755267659461
+    second: Pausing Tutorial_1
+  - first:
+      213: 5885433113565659587
+    second: Pausing Tutorial_2
+  - first:
+      213: 1597059846246430286
+    second: Pausing Tutorial_3
+  - first:
+      213: -4772872495929332264
+    second: Pausing Tutorial_4
+  - first:
+      213: -5535126847993484099
+    second: Pausing Tutorial_5
+  - first:
+      213: 3674205581246832531
+    second: Pausing Tutorial_6
+  - first:
+      213: 2663859985349260200
+    second: Pausing Tutorial_7
+  - first:
+      213: -7702018303713075265
+    second: Pausing Tutorial_8
+  - first:
+      213: 622338980650234644
+    second: Pausing Tutorial_9
+  - first:
+      213: -7109683110372072648
+    second: Pausing Tutorial_10
+  - first:
+      213: -2311600695639689021
+    second: Pausing Tutorial_11
+  - first:
+      213: -5265833154076501909
+    second: Pausing Tutorial_12
+  - first:
+      213: -2227894177881835726
+    second: Pausing Tutorial_13
+  - first:
+      213: -4548498227369325374
+    second: Pausing Tutorial_14
+  - first:
+      213: 8930343644673516574
+    second: Pausing Tutorial_15
+  - first:
+      213: -6063364794332550517
+    second: Pausing Tutorial_16
+  - first:
+      213: 6996760698308148998
+    second: Pausing Tutorial_17
+  - first:
+      213: -6014156125480980570
+    second: Pausing Tutorial_18
+  - first:
+      213: 3063947450865495055
+    second: Pausing Tutorial_19
+  - first:
+      213: 6600890630125055885
+    second: Pausing Tutorial_20
+  - first:
+      213: -2354235842051025335
+    second: Pausing Tutorial_21
+  - first:
+      213: 6672234655774816484
+    second: Pausing Tutorial_22
+  - first:
+      213: 8241212532621200111
+    second: Pausing Tutorial_23
+  - first:
+      213: -6441743340454027933
+    second: Pausing Tutorial_24
+  - first:
+      213: -5082543243843499618
+    second: Pausing Tutorial_25
+  - first:
+      213: 7161843843987589286
+    second: Pausing Tutorial_26
+  - first:
+      213: 4352334783822741926
+    second: Pausing Tutorial_27
+  - first:
+      213: 944657985782007617
+    second: Pausing Tutorial_28
+  - first:
+      213: 3478427972382646558
+    second: Pausing Tutorial_29
+  - first:
+      213: 5049971632439465051
+    second: Pausing Tutorial_30
+  - first:
+      213: -244612196249022174
+    second: Pausing Tutorial_31
+  - first:
+      213: -6378262762163680726
+    second: Pausing Tutorial_32
+  - first:
+      213: 6033329712606941789
+    second: Pausing Tutorial_33
+  - first:
+      213: -8073773511697102562
+    second: Pausing Tutorial_34
+  - first:
+      213: -8910689915226417133
+    second: Pausing Tutorial_35
+  - first:
+      213: -8619738301758865220
+    second: Pausing Tutorial_36
+  - first:
+      213: 7399369496041905093
+    second: Pausing Tutorial_37
+  - first:
+      213: 2557007367627136161
+    second: Pausing Tutorial_38
+  - first:
+      213: -3765153207043713018
+    second: Pausing Tutorial_39
+  - first:
+      213: 1029068599380452318
+    second: Pausing Tutorial_40
+  - first:
+      213: -5974816551171615412
+    second: Pausing Tutorial_41
+  - first:
+      213: -4049774190144168780
+    second: Pausing Tutorial_42
+  - first:
+      213: 2803993889985137305
+    second: Pausing Tutorial_43
+  - first:
+      213: -6858661344919868726
+    second: Pausing Tutorial_44
+  - first:
+      213: 5372241513758644256
+    second: Pausing Tutorial_45
+  - first:
+      213: -1302990940159774100
+    second: Pausing Tutorial_46
+  - first:
+      213: -7612438310291640239
+    second: Pausing Tutorial_47
+  - first:
+      213: -8623868153223215158
+    second: Pausing Tutorial_48
+  - first:
+      213: -8407373767526412177
+    second: Pausing Tutorial_49
+  - first:
+      213: 6685644772845780137
+    second: Pausing Tutorial_50
+  - first:
+      213: 8163442733548275478
+    second: Pausing Tutorial_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pausing Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 598
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affbf9602a97e4850800000000000000
+      internalID: 6363157060323885050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 598
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6402a71dbdcea60800000000000000
+      internalID: 7704774755267659461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 598
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c107630c324da150800000000000000
+      internalID: 5885433113565659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 598
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46fe84f775e92610800000000000000
+      internalID: 1597059846246430286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 597
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd66e1b0c953cdb0800000000000000
+      internalID: -4772872495929332264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 598
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcee9645774f23b0800000000000000
+      internalID: -5535126847993484099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 598
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f99f562866df230800000000000000
+      internalID: 3674205581246832531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 598
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3be1efa8ee7f420800000000000000
+      internalID: 2663859985349260200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 597
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf10a9e82fec1590800000000000000
+      internalID: -7702018303713075265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 598
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413398f610ef2a800800000000000000
+      internalID: 622338980650234644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 616
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833adac31e4555d90800000000000000
+      internalID: -7109683110372072648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 597
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b9d92a6b8befd0800000000000000
+      internalID: -2311600695639689021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 418
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b689bcc55a00ce6b0800000000000000
+      internalID: -5265833154076501909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 418
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23731329c0ee411e0800000000000000
+      internalID: -2227894177881835726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 418
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc482016fc70e0c0800000000000000
+      internalID: -4548498227369325374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 417
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14aee6da34feeb70800000000000000
+      internalID: 8930343644673516574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 417
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ae23a38d99adba0800000000000000
+      internalID: -6063364794332550517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 417
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3211e8cc791160800000000000000
+      internalID: 6996760698308148998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 418
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af67f44edc698ca0800000000000000
+      internalID: -6014156125480980570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 418
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2d4b19f3558a20800000000000000
+      internalID: 3063947450865495055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 359
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8feec91e031b9b50800000000000000
+      internalID: 6600890630125055885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 359
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465e0599f2145fd0800000000000000
+      internalID: -2354235842051025335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 328
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e83283811a889c50800000000000000
+      internalID: 6672234655774816484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 327
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4265722bae5270800000000000000
+      internalID: 8241212532621200111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ddff9cf845a96a0800000000000000
+      internalID: -6441743340454027933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 327
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99852329dd2779b0800000000000000
+      internalID: -5082543243843499618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 314
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c2b1f70bf36360800000000000000
+      internalID: 7161843843987589286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c45d1d69966c30800000000000000
+      internalID: 4352334783822741926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 359
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c5ccde691c1d00800000000000000
+      internalID: 944657985782007617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 359
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1166a6bfcbd54030800000000000000
+      internalID: 3478427972382646558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 328
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b549a5d917a151640800000000000000
+      internalID: 5049971632439465051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 327
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22159d6e086fa9cf0800000000000000
+      internalID: -244612196249022174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 327
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac121bfcbdb77a0800000000000000
+      internalID: -6378262762163680726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_33
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 327
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521fbc5861bab350800000000000000
+      internalID: 6033329712606941789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 328
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19065e84c134ff80800000000000000
+      internalID: -8073773511697102562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_35
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 328
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3181643abbed65480800000000000000
+      internalID: -8910689915226417133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 237
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb085d21fa9806880800000000000000
+      internalID: -8619738301758865220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 238
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb50756a57dfa660800000000000000
+      internalID: 7399369496041905093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 224
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd87b37a05c7320800000000000000
+      internalID: 2557007367627136161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 237
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089c395b1d7fbbc0800000000000000
+      internalID: -3765153207043713018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 237
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a49b507cf74e00800000000000000
+      internalID: 1029068599380452318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 237
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459a4da000351da0800000000000000
+      internalID: -5974816551171615412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_42
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 238
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc59e7a4df4cc7c0800000000000000
+      internalID: -4049774190144168780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 237
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a0ee43699c9e620800000000000000
+      internalID: 2803993889985137305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_44
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 238
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca295578d321d0a0800000000000000
+      internalID: -6858661344919868726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_45
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 238
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d03381390e8a40800000000000000
+      internalID: 5372241513758644256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62793ab4a8daede0800000000000000
+      internalID: -1302990940159774100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 147
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fd7070bf2b5690800000000000000
+      internalID: -7612438310291640239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 148
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac783591b9dd15880800000000000000
+      internalID: -8623868153223215158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 148
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6096a44a12035b80800000000000000
+      internalID: -8407373767526412177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_50
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac7be3bf7e28cc50800000000000000
+      internalID: 6685644772845780137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pausing Tutorial_51
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 147
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61783651aef5a4170800000000000000
+      internalID: 8163442733548275478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pausing Tutorial_0: 6363157060323885050
+      Pausing Tutorial_1: 7704774755267659461
+      Pausing Tutorial_10: -7109683110372072648
+      Pausing Tutorial_11: -2311600695639689021
+      Pausing Tutorial_12: -5265833154076501909
+      Pausing Tutorial_13: -2227894177881835726
+      Pausing Tutorial_14: -4548498227369325374
+      Pausing Tutorial_15: 8930343644673516574
+      Pausing Tutorial_16: -6063364794332550517
+      Pausing Tutorial_17: 6996760698308148998
+      Pausing Tutorial_18: -6014156125480980570
+      Pausing Tutorial_19: 3063947450865495055
+      Pausing Tutorial_2: 5885433113565659587
+      Pausing Tutorial_20: 6600890630125055885
+      Pausing Tutorial_21: -2354235842051025335
+      Pausing Tutorial_22: 6672234655774816484
+      Pausing Tutorial_23: 8241212532621200111
+      Pausing Tutorial_24: -6441743340454027933
+      Pausing Tutorial_25: -5082543243843499618
+      Pausing Tutorial_26: 7161843843987589286
+      Pausing Tutorial_27: 4352334783822741926
+      Pausing Tutorial_28: 944657985782007617
+      Pausing Tutorial_29: 3478427972382646558
+      Pausing Tutorial_3: 1597059846246430286
+      Pausing Tutorial_30: 5049971632439465051
+      Pausing Tutorial_31: -244612196249022174
+      Pausing Tutorial_32: -6378262762163680726
+      Pausing Tutorial_33: 6033329712606941789
+      Pausing Tutorial_34: -8073773511697102562
+      Pausing Tutorial_35: -8910689915226417133
+      Pausing Tutorial_36: -8619738301758865220
+      Pausing Tutorial_37: 7399369496041905093
+      Pausing Tutorial_38: 2557007367627136161
+      Pausing Tutorial_39: -3765153207043713018
+      Pausing Tutorial_4: -4772872495929332264
+      Pausing Tutorial_40: 1029068599380452318
+      Pausing Tutorial_41: -5974816551171615412
+      Pausing Tutorial_42: -4049774190144168780
+      Pausing Tutorial_43: 2803993889985137305
+      Pausing Tutorial_44: -6858661344919868726
+      Pausing Tutorial_45: 5372241513758644256
+      Pausing Tutorial_46: -1302990940159774100
+      Pausing Tutorial_47: -7612438310291640239
+      Pausing Tutorial_48: -8623868153223215158
+      Pausing Tutorial_49: -8407373767526412177
+      Pausing Tutorial_5: -5535126847993484099
+      Pausing Tutorial_50: 6685644772845780137
+      Pausing Tutorial_51: 8163442733548275478
+      Pausing Tutorial_6: 3674205581246832531
+      Pausing Tutorial_7: 2663859985349260200
+      Pausing Tutorial_8: -7702018303713075265
+      Pausing Tutorial_9: 622338980650234644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

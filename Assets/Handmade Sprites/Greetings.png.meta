@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: baa3cdaecc663714dae6cf9b0cef2512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9024472093908896462
+    second: Greetings_0
+  - first:
+      213: 4618084462851402508
+    second: Greetings_1
+  - first:
+      213: -4072301277697806636
+    second: Greetings_2
+  - first:
+      213: -1137013465229761354
+    second: Greetings_3
+  - first:
+      213: 1248759336319254984
+    second: Greetings_4
+  - first:
+      213: -7955442303712004774
+    second: Greetings_5
+  - first:
+      213: 654128227708200173
+    second: Greetings_6
+  - first:
+      213: -6425417491687601538
+    second: Greetings_7
+  - first:
+      213: 3993177338002576839
+    second: Greetings_8
+  - first:
+      213: -3122941909629317021
+    second: Greetings_9
+  - first:
+      213: 2228775721779265380
+    second: Greetings_10
+  - first:
+      213: 5673243639912015346
+    second: Greetings_11
+  - first:
+      213: -1513277527837981661
+    second: Greetings_12
+  - first:
+      213: 5344705387395096800
+    second: Greetings_13
+  - first:
+      213: 5246028397722173669
+    second: Greetings_14
+  - first:
+      213: 7173972665895668021
+    second: Greetings_15
+  - first:
+      213: -4578201242847074619
+    second: Greetings_16
+  - first:
+      213: 7374944980064968420
+    second: Greetings_17
+  - first:
+      213: -6870897688240464589
+    second: Greetings_18
+  - first:
+      213: 4237866218091288038
+    second: Greetings_19
+  - first:
+      213: 5446082998929235715
+    second: Greetings_20
+  - first:
+      213: 3235867511751369748
+    second: Greetings_21
+  - first:
+      213: 1897448302556399863
+    second: Greetings_22
+  - first:
+      213: 2887523681972897750
+    second: Greetings_23
+  - first:
+      213: -8697209930046073291
+    second: Greetings_24
+  - first:
+      213: 1930617541705291440
+    second: Greetings_25
+  - first:
+      213: 6483944924983595335
+    second: Greetings_26
+  - first:
+      213: 5628030147156119115
+    second: Greetings_27
+  - first:
+      213: 4444347650787880941
+    second: Greetings_28
+  - first:
+      213: -58350780439084065
+    second: Greetings_29
+  - first:
+      213: -2125220483795415520
+    second: Greetings_30
+  - first:
+      213: -7775065470154454422
+    second: Greetings_31
+  - first:
+      213: 3788825161320603224
+    second: Greetings_32
+  - first:
+      213: 6251233254501170299
+    second: Greetings_33
+  - first:
+      213: -4919092261257032350
+    second: Greetings_34
+  - first:
+      213: 7418475571260605608
+    second: Greetings_35
+  - first:
+      213: 5203812584249448753
+    second: Greetings_36
+  - first:
+      213: 5314613734008931164
+    second: Greetings_37
+  - first:
+      213: -1060495483617434857
+    second: Greetings_38
+  - first:
+      213: 7990022470975296225
+    second: Greetings_39
+  - first:
+      213: -7692419885863814698
+    second: Greetings_40
+  - first:
+      213: 1126761624251779374
+    second: Greetings_41
+  - first:
+      213: -294412710935888456
+    second: Greetings_42
+  - first:
+      213: -778538772739397284
+    second: Greetings_43
+  - first:
+      213: 9155570318213160752
+    second: Greetings_44
+  - first:
+      213: -5291055633941406265
+    second: Greetings_45
+  - first:
+      213: 5344215720852673698
+    second: Greetings_46
+  - first:
+      213: -4918716213478286874
+    second: Greetings_47
+  - first:
+      213: 7757245897981634174
+    second: Greetings_48
+  - first:
+      213: 4712308597901143467
+    second: Greetings_49
+  - first:
+      213: 2462801874348090063
+    second: Greetings_50
+  - first:
+      213: -4692009160533491074
+    second: Greetings_51
+  - first:
+      213: -5654904299857939547
+    second: Greetings_52
+  - first:
+      213: 4701450804330794922
+    second: Greetings_53
+  - first:
+      213: 3630859397035045298
+    second: Greetings_54
+  - first:
+      213: -3662145921926864470
+    second: Greetings_55
+  - first:
+      213: -7534172890060475269
+    second: Greetings_56
+  - first:
+      213: 8510280886144810607
+    second: Greetings_57
+  - first:
+      213: 8037330884858629297
+    second: Greetings_58
+  - first:
+      213: -946283645879573162
+    second: Greetings_59
+  - first:
+      213: 1278210067669639108
+    second: Greetings_60
+  - first:
+      213: 8934623512544887983
+    second: Greetings_61
+  - first:
+      213: 137371368859843790
+    second: Greetings_62
+  - first:
+      213: -5083256853187224842
+    second: Greetings_63
+  - first:
+      213: -5639269655495219410
+    second: Greetings_64
+  - first:
+      213: 5177843330139237455
+    second: Greetings_65
+  - first:
+      213: -4647032276569573530
+    second: Greetings_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greetings_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 450
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235722db172a2c280800000000000000
+      internalID: -9024472093908896462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 450
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b220fe95bb61040800000000000000
+      internalID: 4618084462851402508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dee37c50974c77c0800000000000000
+      internalID: -4072301277697806636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e42c07448830f0800000000000000
+      internalID: -1137013465229761354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1034b000c745110800000000000000
+      internalID: 1248759336319254984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557120ef57989190800000000000000
+      internalID: -7955442303712004774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 450
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46a1a482ee31900800000000000000
+      internalID: 654128227708200173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 463
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a016aa5d454d6a0800000000000000
+      internalID: -6425417491687601538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 449
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c598c4d1ad9a6730800000000000000
+      internalID: 3993177338002576839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3605d5611e419a4d0800000000000000
+      internalID: -3122941909629317021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 450
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ffaacd5b33eee10800000000000000
+      internalID: 2228775721779265380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5233948096bbe40800000000000000
+      internalID: 5673243639912015346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c2aa2b12cffae0800000000000000
+      internalID: -1513277527837981661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 450
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e02dcc7b353c2a40800000000000000
+      internalID: 5344705387395096800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e087d77803adc840800000000000000
+      internalID: 5246028397722173669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 449
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c21b51221f8360800000000000000
+      internalID: 7173972665895668021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c629d9d936f670c0800000000000000
+      internalID: -4578201242847074619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 450
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee92de9261195660800000000000000
+      internalID: 7374944980064968420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ddf54c4faa5a0a0800000000000000
+      internalID: -6870897688240464589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 462
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e595f64fdcefca30800000000000000
+      internalID: 4237866218091288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 450
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f987802af549b40800000000000000
+      internalID: 5446082998929235715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 449
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ea2a8b5c18ec20800000000000000
+      internalID: 3235867511751369748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 450
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8ca859d27155a10800000000000000
+      internalID: 1897448302556399863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 450
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c5807d7b821820800000000000000
+      internalID: 2887523681972897750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369a9ef5ad4d4780800000000000000
+      internalID: -8697209930046073291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_25
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 450
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b65b72ec6eeaca10800000000000000
+      internalID: 1930617541705291440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 450
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74118dc4e899bf950800000000000000
+      internalID: 6483944924983595335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 330
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0e6aa997ca1e40800000000000000
+      internalID: 5628030147156119115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 330
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defad8724ae7dad30800000000000000
+      internalID: 4444347650787880941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 329
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3cf8b3642b03ff0800000000000000
+      internalID: -58350780439084065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 329
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8df9da33b182e0800000000000000
+      internalID: -2125220483795415520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 330
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac902262b691490800000000000000
+      internalID: -7775065470154454422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 330
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e9390096c949430800000000000000
+      internalID: 3788825161320603224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 329
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb6a64687d0c650800000000000000
+      internalID: 6251233254501170299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 330
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc66e96afdbbbb0800000000000000
+      internalID: -4919092261257032350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 329
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c6ef2a38b3f660800000000000000
+      internalID: 7418475571260605608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13955e179f7a73840800000000000000
+      internalID: 5203812584249448753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 330
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c306780d41c940800000000000000
+      internalID: 5314613734008931164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 329
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a315f9fc5841f0800000000000000
+      internalID: -1060495483617434857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21fd9ba1342ee60800000000000000
+      internalID: 7990022470975296225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 329
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9bfe7bed80f3590800000000000000
+      internalID: -7692419885863814698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_41
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 330
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c1183abf03af00800000000000000
+      internalID: 1126761624251779374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_42
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd7e4303390aebf0800000000000000
+      internalID: -294412710935888456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 330
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59effe6c131235f0800000000000000
+      internalID: -778538772739397284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 329
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f943532be1f0f70800000000000000
+      internalID: 9155570318213160752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 330
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdd7142fe46296b0800000000000000
+      internalID: -5291055633941406265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_46
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 329
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45b7c12e77a2a40800000000000000
+      internalID: 5344215720852673698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 330
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e91ca01aa53dbbb0800000000000000
+      internalID: -4918716213478286874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_48
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 330
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e762d886b0647ab60800000000000000
+      internalID: 7757245897981634174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_49
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badaae1f3bb756140800000000000000
+      internalID: 4712308597901143467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 330
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22fa89141ad2220800000000000000
+      internalID: 2462801874348090063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_51
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 330
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c58f1782a2eeb0800000000000000
+      internalID: -4692009160533491074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_52
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 319
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37320108eb581b0800000000000000
+      internalID: -5654904299857939547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf8c11e898ee3140800000000000000
+      internalID: 4701450804330794922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 270
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b9ad6267636230800000000000000
+      internalID: 3630859397035045298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_55
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 261
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa167e7dfa17d2dc0800000000000000
+      internalID: -3662145921926864470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74319b9cad317790800000000000000
+      internalID: -7534172890060475269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 270
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e357560679a1670800000000000000
+      internalID: 8510280886144810607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_58
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 296
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc464e2bd55a8f60800000000000000
+      internalID: 8037330884858629297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 270
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6552696a9002ed2f0800000000000000
+      internalID: -946283645879573162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_60
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd6c7c84d1db110800000000000000
+      internalID: 1278210067669639108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 270
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4471b3fb82efb70800000000000000
+      internalID: 8934623512544887983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc333b388a08e100800000000000000
+      internalID: 137371368859843790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 270
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa94b303d4a479b0800000000000000
+      internalID: -5083256853187224842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 282
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27619f502a4db1b0800000000000000
+      internalID: -5639269655495219410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_65
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 270
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c239b43156bd740800000000000000
+      internalID: 5177843330139237455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greetings_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 267
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667bb47f3cc628fb0800000000000000
+      internalID: -4647032276569573530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Greetings_0: -9024472093908896462
+      Greetings_1: 4618084462851402508
+      Greetings_10: 2228775721779265380
+      Greetings_11: 5673243639912015346
+      Greetings_12: -1513277527837981661
+      Greetings_13: 5344705387395096800
+      Greetings_14: 5246028397722173669
+      Greetings_15: 7173972665895668021
+      Greetings_16: -4578201242847074619
+      Greetings_17: 7374944980064968420
+      Greetings_18: -6870897688240464589
+      Greetings_19: 4237866218091288038
+      Greetings_2: -4072301277697806636
+      Greetings_20: 5446082998929235715
+      Greetings_21: 3235867511751369748
+      Greetings_22: 1897448302556399863
+      Greetings_23: 2887523681972897750
+      Greetings_24: -8697209930046073291
+      Greetings_25: 1930617541705291440
+      Greetings_26: 6483944924983595335
+      Greetings_27: 5628030147156119115
+      Greetings_28: 4444347650787880941
+      Greetings_29: -58350780439084065
+      Greetings_3: -1137013465229761354
+      Greetings_30: -2125220483795415520
+      Greetings_31: -7775065470154454422
+      Greetings_32: 3788825161320603224
+      Greetings_33: 6251233254501170299
+      Greetings_34: -4919092261257032350
+      Greetings_35: 7418475571260605608
+      Greetings_36: 5203812584249448753
+      Greetings_37: 5314613734008931164
+      Greetings_38: -1060495483617434857
+      Greetings_39: 7990022470975296225
+      Greetings_4: 1248759336319254984
+      Greetings_40: -7692419885863814698
+      Greetings_41: 1126761624251779374
+      Greetings_42: -294412710935888456
+      Greetings_43: -778538772739397284
+      Greetings_44: 9155570318213160752
+      Greetings_45: -5291055633941406265
+      Greetings_46: 5344215720852673698
+      Greetings_47: -4918716213478286874
+      Greetings_48: 7757245897981634174
+      Greetings_49: 4712308597901143467
+      Greetings_5: -7955442303712004774
+      Greetings_50: 2462801874348090063
+      Greetings_51: -4692009160533491074
+      Greetings_52: -5654904299857939547
+      Greetings_53: 4701450804330794922
+      Greetings_54: 3630859397035045298
+      Greetings_55: -3662145921926864470
+      Greetings_56: -7534172890060475269
+      Greetings_57: 8510280886144810607
+      Greetings_58: 8037330884858629297
+      Greetings_59: -946283645879573162
+      Greetings_6: 654128227708200173
+      Greetings_60: 1278210067669639108
+      Greetings_61: 8934623512544887983
+      Greetings_62: 137371368859843790
+      Greetings_63: -5083256853187224842
+      Greetings_64: -5639269655495219410
+      Greetings_65: 5177843330139237455
+      Greetings_66: -4647032276569573530
+      Greetings_7: -6425417491687601538
+      Greetings_8: 3993177338002576839
+      Greetings_9: -3122941909629317021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
