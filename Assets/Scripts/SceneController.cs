@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     public static SceneController Instance;
-    [SerializeField] Animator transitionAnim;
+   // [SerializeField] Animator transitionAnim; 
 
     private void Awake()
     {
@@ -26,7 +26,7 @@ public class SceneController : MonoBehaviour
 
     IEnumerator LoadLevel()
     {
-        transitionAnim.SetTrigger("End");
+        // transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(0.5f);
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene(). buildIndex + 1);
     }
