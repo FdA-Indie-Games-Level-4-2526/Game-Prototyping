@@ -13,6 +13,8 @@ public class PauseScreen : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            // - Opens the Pause Screen
+
             if (GameIsPaused)
             {
                 Resume();
@@ -26,12 +28,15 @@ public class PauseScreen : MonoBehaviour
 
     void Resume()
     {
+        // - Unpaused Settings
+
         pauseScreenUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
     }
     void Pause()
     {
+        // - Paused Settings
         pauseScreenUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;

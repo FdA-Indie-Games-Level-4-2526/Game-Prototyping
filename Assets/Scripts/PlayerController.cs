@@ -51,6 +51,8 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
+
+        // - Handles the player movement (jumping, falling, walking, etc)
         body.linearVelocity = new Vector2(horizontalInput * speed, body.linearVelocity.y);
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
@@ -138,18 +140,23 @@ public class PlayerController : MonoBehaviour
 
     private bool isGrounded()
     {
+        // - Checks if Player is grounded
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
         return raycastHit.collider != null;
     }
     
     private bool onWall()
     {
+        // - Check if Player is on the wall
+
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
         return raycastHit.collider != null;
     }
 
     public void Die()
     {
+        // - This kills the Player
+
         _active = false;
         boxCollider.enabled = false;
         StartCoroutine(Respawn());
@@ -157,6 +164,8 @@ public class PlayerController : MonoBehaviour
 
     private IEnumerator Respawn()
     {
+        // - This respawns the player
+
         yield return new WaitForSeconds(1f);
         transform.position = (Vector3)_respawnPoint;
         _active = true;

@@ -22,11 +22,15 @@ public class SceneController : MonoBehaviour
 
     public void NextLevel()
     {
+        // - Initiates load level function
+
        StartCoroutine(LoadLevel());
     }
 
     IEnumerator LoadLevel()
     {
+        // - Handles the transitions between the levels
+
         //  transitionAnim.SetTrigger("End");
         fadingScript.FadeOut();
         yield return new WaitForSeconds(0.5f);

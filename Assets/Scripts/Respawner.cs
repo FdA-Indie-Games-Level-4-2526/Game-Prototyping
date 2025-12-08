@@ -3,12 +3,14 @@ using UnityEngine;
  
 public class Respawner : MonoBehaviour
 {
-    public SpriteRenderer spriteRenderer; // assign in inspector
+    public SpriteRenderer spriteRenderer; 
     private Rigidbody2D rb;
     private Vector2 startPos;
  
     private void Awake()
     {
+        // - Calls upon the Players sprite in order to make sure it's there
+
         rb = GetComponent<Rigidbody2D>();
         if (spriteRenderer == null)
             spriteRenderer = GetComponentInChildren<SpriteRenderer>();
@@ -16,17 +18,23 @@ public class Respawner : MonoBehaviour
  
     private void Start()
     {
+        // - Manages the players spawn position
+
         startPos = transform.position;
     }
  
     public void Die()
     {
+        // - The Player dies
+
         Debug.Log("Death");
         StartCoroutine(Respawn(1f));
     }
  
     private IEnumerator Respawn(float duration)
     {
+        // - This despawns the sprite.
+
         if (spriteRenderer != null)
             spriteRenderer.enabled = false;
  

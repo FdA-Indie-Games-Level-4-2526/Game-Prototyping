@@ -11,12 +11,17 @@ public class SawBlade : MonoBehaviour
 
    private void Awake()
     {
+        // - Sets movement boundaries
+
         leftEdge = transform.position.x - movementDistance;
         rightEdge = transform.position.x + movementDistance;
     }
 
    private void Update()
     {
+
+        // - Handles the movement of the Saw-Blades
+
         if(movingLeft)
         {
             if(transform.position.x > leftEdge)
@@ -41,6 +46,8 @@ public class SawBlade : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        // - Checks if Player has touched Saw-Blade
+
         if(collision.tag == "Player")
         {
            // collision.GetComponent<Health>().TakeDamage(damage);

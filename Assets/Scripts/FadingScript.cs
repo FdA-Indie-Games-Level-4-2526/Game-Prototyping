@@ -23,16 +23,22 @@ public class FadingScript : MonoBehaviour
 
     public void FadeIn()
     {
+        // - Controls the fade in
+
         StartCoroutine(FadeCanvasGroup(canvasGroup, canvasGroup.alpha, 0, fadeDuration));
     }
 
     public void FadeOut()
     {
+        // - Controls the fade out
+
         StartCoroutine(FadeCanvasGroup(canvasGroup, canvasGroup.alpha, 1, fadeDuration));
     }
 
     private IEnumerator FadeCanvasGroup(CanvasGroup cg, float start, float end, float duration)
     {
+        // - Is in charge of the Canvas Group
+
         float elapsedTime = 0.0f;
         while (elapsedTime < fadeDuration)
         {
