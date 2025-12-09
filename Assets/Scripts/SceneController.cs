@@ -18,6 +18,11 @@ public class SceneController : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if (fadingScript == null)
+        {
+            fadingScript = GetComponent<FadingScript>();
+        }
     }
 
     public void NextLevel()
